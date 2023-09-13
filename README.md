@@ -1,2 +1,24 @@
-# curso_python
-Curso Python Udemy
+# Curso Python Udemy
+### Módulos
+- [ ] Ambiente
+- [ ] Lógica Pyhton
+- [ ] Funções
+- [ ] Classes
+- [ ] Módulos
+- [ ] PySide6
+- [ ] Banco de Dados
+- [ ] Django Básico
+- [ ] Django Agenda
+- [ ] Django Deploy
+- [ ] Django Blog
+- [ ] Django Ecommerce
+- [ ] TDD
+- [ ] Type Annotations
+- [ ] Structural Pattern Matching
+- [ ] Design Patterns
+- [ ] Expressões Regulares
+- [ ] Banco de Dados Relacional
+- [ ] HTML5 e CSS3
+- [ ] Landing Page
+- [ ] Comandos Linux
+- [ ] Notas Finais
