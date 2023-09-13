@@ -1,6 +1,6 @@
 # Curso Python Udemy
 ### Módulos
-- [ ] Ambiente
+- [ x ] Ambiente
 - [ ] Lógica Pyhton
 - [ ] Funções
 - [ ] Classes
